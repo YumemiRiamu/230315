@@ -86,5 +86,6 @@ return 0;
 ```
 
 실행 결과 
+![캡처](https://user-images.githubusercontent.com/93495684/225244543-e609a8e3-4a7a-4001-8cb4-a65a201e204d.PNG)
 
 
